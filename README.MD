@@ -2,6 +2,9 @@
 
 ImageTranslator es una aplicación de escritorio construida con **Python** y **PyQt5** que permite extraer texto de imágenes del portapapeles mediante OCR (Tesseract) y traducirlo instantáneamente a múltiples idiomas usando Google Translate.
 
+Descargar última versión aquí:
+
+https://github.com/Corbatin/ImageTranslator/releases
 
 ##  Características
 - **Pegado directo:** Captura imágenes directamente desde tu portapapeles.
