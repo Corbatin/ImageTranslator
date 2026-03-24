@@ -5,8 +5,8 @@ ImageTranslator es una aplicación de escritorio construida con **Python** y **P
 
 ##  Características
 - **Pegado directo:** Captura imágenes directamente desde tu portapapeles.
-- **OCR Potente:** Extracción de texto precisa gracias a Tesseract.
-- **Traducción Multilingüe:** Soporte para decenas de idiomas a través de `deep-translator`.
+- **OCR:** Extracción de texto precisa a través de Tesseract.
+- **Traducción Multilingüe:** Soporte para decenas de idiomas con `deep-translator`.
 - **Interfaz Moderna:** Diseño oscuro (Dark Mode) estilizado con QSS.
 
 ## Requisitos Previos
@@ -39,6 +39,10 @@ Antes de instalar las librerías de Python, **debes instalar Tesseract OCR** en 
 ```
 3. **Instala las dependencias**:
 
-    ```Bash
+ ```Bash
     pip install -r requirements.txt
-    ```
+ ```
+4. **Uso**
+
+Ejecutar la aplicación:
+- `python main.py`
